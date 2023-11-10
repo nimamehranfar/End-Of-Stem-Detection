@@ -1,0 +1,10 @@
+train: ./StemEndMerge/images/train/ 
+val:  ./StemEndMerge/images/val/
+test: ./StemEndMerge/images/test/
+report: ./StemEndMerge/images/report/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["StemEnd"]

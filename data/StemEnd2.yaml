@@ -1,0 +1,10 @@
+train: ./StemEnd2/images/train/ 
+val:  ./StemEnd2/images/val/
+test: ./StemEnd2/images/test/
+report: ./StemEnd2/images/report/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["StemEnd"]
